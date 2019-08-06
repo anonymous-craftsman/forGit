@@ -15,6 +15,8 @@ $num1 = 5;
 $num2 = 10;
 $sum = $num1 + $num2;
 echo $sum;
+$res = $sum - 2;
+echo "<br>". $res;
 ?>
 </body>
 </html>
