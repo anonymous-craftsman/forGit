@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="232e7d98-bdb0-4423-87ef-a9837bbcb34f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+=======
     <list default="true" id="232e7d98-bdb0-4423-87ef-a9837bbcb34f" name="Default Changelist" comment="" />
+>>>>>>> ba0b46f3e3b0a4d6baadc93dbf57b36dd669e021
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +50,14 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1989931339">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -59,8 +73,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comand.txt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+=======
             <state relative-caret-position="197">
               <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+>>>>>>> ba0b46f3e3b0a4d6baadc93dbf57b36dd669e021
             </state>
           </provider>
         </entry>
@@ -95,9 +114,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="695" />
+    <option name="y" value="6" />
+    <option name="width" value="672" />
+=======
     <option name="x" value="-2" />
     <option name="y" value="8" />
     <option name="width" value="712" />
+>>>>>>> ba0b46f3e3b0a4d6baadc93dbf57b36dd669e021
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -106,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,7 +143,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,17 +176,40 @@
       <updated>1565117371526</updated>
       <workItem from="1565117375485" duration="1106000" />
       <workItem from="1565118641421" duration="2649000" />
+<<<<<<< HEAD
       <workItem from="1565625922239" duration="2999000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1565625922239" duration="627000" />
+      <workItem from="1565627889645" duration="587000" />
+=======
+      <workItem from="1565625922239" duration="2501000" />
+>>>>>>> ba0b46f3e3b0a4d6baadc93dbf57b36dd669e021
+>>>>>>> 0a4da95d124dd001aa88d98402cb3dc56ea9cd04
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="6754000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="4969000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="695" y="6" width="672" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5637255" />
+=======
+    <option name="totallyTimeSpent" value="6256000" />
+>>>>>>> 0a4da95d124dd001aa88d98402cb3dc56ea9cd04
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="8" width="712" height="735" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5214724" />
+>>>>>>> ba0b46f3e3b0a4d6baadc93dbf57b36dd669e021
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -190,6 +238,8 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/installGit.txt">
+<<<<<<< HEAD
+=======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="71" />
@@ -197,6 +247,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/comand.txt">
+>>>>>>> ba0b46f3e3b0a4d6baadc93dbf57b36dd669e021
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
@@ -205,8 +256,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="272">
           <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+=======
+        <state relative-caret-position="340">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+>>>>>>> ba0b46f3e3b0a4d6baadc93dbf57b36dd669e021
+>>>>>>> 0a4da95d124dd001aa88d98402cb3dc56ea9cd04
         </state>
       </provider>
     </entry>
