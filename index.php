@@ -17,6 +17,8 @@ $sum = $num1 + $num2;
 echo $sum;
 $res = $sum - 2;
 echo "<br>". $res;
+
+echo "обнова v2"
 ?>
 </body>
 </html>
