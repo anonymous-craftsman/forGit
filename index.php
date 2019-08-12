@@ -18,7 +18,8 @@ echo $sum;
 $res = $sum - 2;
 echo "<br>". $res;
 
-echo "обнова v2"
+//echo "обнова v2";
+echo "Обнова v2 не актуальна, прийшла v3";
 ?>
 </body>
 </html>
